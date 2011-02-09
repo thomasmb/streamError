@@ -1,8 +1,15 @@
 /*
 
-The basic purpose of this script is to provoke the app to show the Network read error produced by the Titanium AudioPlayer class. This error shows up randomly and has in my other apps made the app useless as it becomes inresponsive, variables get lost and animation stops working.
+The basic purpose of this script is to provoke the app to show the Network read 
+error produced by the Titanium AudioPlayer class. This error shows up randomly 
+and has in my other apps made the app useless as it becomes inresponsive, variables 
+get lost and animation stops working.
 
-The reason I made this is because the script will save you the trouble of having to press play until you get the error (although it could happen the very first time it tries to play, but like I said, it's appears randomly). Also the script will not stop once the error appears, becayse there is no way of knowing wheter it occured or not.
+The reason I made this is because the script will save you the trouble of having 
+to press play until you get the error (although it could happen the very first time 
+it tries to play, but like I said, it's appears randomly). Also the script will not 
+stop once the error appears, becayse there is no way of knowing wheter it occured or 
+not.
 
 */
 
