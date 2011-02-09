@@ -1,18 +1,10 @@
-Welcome to your Appcelerator Titanium Mobile Project
+The basic purpose of this script is to provoke the app to show the Network read 
+error produced by the Titanium AudioPlayer class. This error shows up randomly 
+and has in my other apps made the app useless as it becomes inresponsive, variables 
+get lost and animation stops working.
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
-
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+The reason I made this is because the script will save you the trouble of having 
+to press play until you get the error (although it could happen the very first time 
+it tries to play, but like I said, it's appears randomly). Also the script will not 
+stop once the error appears, becayse there is no way of knowing wheter it occured or 
+not.
